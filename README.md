@@ -1,0 +1,2 @@
+# remove_windows_news
+删除windows里面老是弹窗的新闻窗口
