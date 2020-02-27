@@ -8,4 +8,4 @@
 ### 会弹窗的exe统计
 不同的电脑可能文件位置不一样
 - C:\Program Files (x86)\SogouInput\\[version]\SGNews.exe (搜狗输入法)
-- C:\Program Files (x86)\MyDrivers\DriverGenius\ksoft (金山毒霸)
+- C:\Program Files (x86)\MyDrivers\DriverGenius\ksoft\kminisite.exe (金山毒霸)
